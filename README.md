@@ -25,4 +25,4 @@ This project performs exploratory data analysis (EDA) on Bengaluru housing data 
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/bengaluru-house-price-analysis.git
+   git clone https://github.com/muhammad-sabithh/bengaluru-house-price-analysis.git
